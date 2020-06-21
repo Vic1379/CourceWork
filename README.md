@@ -1,6 +1,4 @@
 # CourceWork
-My coursework for uni
-
 Main.py - основной модуль
 
 L_(number).py - задачи на геометрические построения с использованием одной линейки
